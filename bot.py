@@ -100,7 +100,7 @@ PROCEED_MESSAGE = f"""
 
 ✏️ Mandatory Tasks:
 - Join our telegram channels
-- Follow our Twitter page
+- Follow our Twitter page and Retweet Pinned Post.
 
 NOTE: Users found Cheating would be disqualified & banned immediately.
 
@@ -109,12 +109,12 @@ Airdrop Date: *{AIRDROP_DATE}*{EXPLORER_URL}
 """
 
 MAKE_SURE_TELEGRAM = f"""
-Do no forget to join our Telegram channel
+📌 Join our *Telegram channel*
 {TELEGRAM_LINKS}
 """
 
 FOLLOW_TWITTER_TEXT = f"""
-🔹 Follow our Twitter page and Retweet Pinned Post.
+🔹 Follow our *Twitter page* and *Retweet Pinned Post*
 {TWITTER_LINKS}
 """
 
