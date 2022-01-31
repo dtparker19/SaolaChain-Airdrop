@@ -18,7 +18,7 @@ SaolaChain is a global freelance platform that offers reliable freelance solutio
 
 ### SaolaChain Airdrop is Live ❗️
 📢 Our Airdrop rules：
-1. Join DePay Telegram Channel and Telegram Group.
+1. Join SaolaChain Telegram Channel and Telegram Group.
 2. Follow Twitter and Retweet Pinned Post.
 3. Submit your BSC-Binance Smart Chain address.\
 ⭐️ For Joining - Get 800 OLA ($8).\
